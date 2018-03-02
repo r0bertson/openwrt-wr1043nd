@@ -32,7 +32,7 @@ instalados não constam o OpenVSwitch nem o SNMPd, portanto devemos fazer um
 patch com outra imagem.
 
 5. Vá no menu System -> Backup / Flash Firmware e na seção "Flash new firmware
-image" e selecione o arquivo do patch
+image" selecione o arquivo do patch
 `openwrt-ar71xx-generic-tl-wr1043nd-v3-squashfs-sysupgrade.bin`. Após alguns
 segundos o roteador irá reiniciar. Perceba que não é mais possível acessar as
 configurações do roteador através do navegador. Isso acontece pois após o patch
